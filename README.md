@@ -21,6 +21,13 @@ Este proyecto configura un pipeline CI/CD en AWS CodePipeline para desplegar un 
 - El pipeline está configurado para dispararse automáticamente con cambios en la rama main de GitHub.
 
 ## Capturas de pantalla
+Cambios en el repositorio
+![](history.PNG)
 
-- (Aquí insertar las imágenes de la configuración del pipeline y despliegue)
+Pipeline
+![](pipeline.PNG)
+
+Bucket
+![](s3.PNG)
+
 
